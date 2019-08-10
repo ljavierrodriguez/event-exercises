@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+!.gitignore
+!.gitpod.yml
+!.gitpod.dockerfile
+!.bc.json
+!README.md
+
+!exercises/*/*
